@@ -1,0 +1,7 @@
+{
+  "val_accuracy": 0.2895375,
+  "val_top5_accuracy": 0.7507375,
+  "val_within_1_bin_every_dim": 0.8709625,
+  "paper_val_accuracy": 0.54,
+  "n_val": 80000
+}
